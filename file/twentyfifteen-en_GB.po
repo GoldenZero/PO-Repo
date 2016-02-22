@@ -43,3 +43,6 @@ msgstr "Next"
 msgctxt "Used between list items, there is a space after the comma."
 msgid ", "
 msgstr ", "
+
+msgid "new one "
+msgstr "newer one "

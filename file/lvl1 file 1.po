@@ -17,3 +17,6 @@ msgstr "Your API key is no longer valid. Please enter a new key or contact suppo
 #: views/notice.php:81 views/notice.php:108 views/notice.php:115
 msgid "Please <a href=\"%s\" target=\"_blank\">contact our support team</a> with any questions."
 msgstr "Please <a href=\"%s\" target=\"_blank\">contact our support team</a> with any questions."
+
+msgid "New to me."
+msgstr "New to me."

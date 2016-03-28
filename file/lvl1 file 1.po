@@ -18,3 +18,8 @@ msgstr "Your API key is no longer valid. Please enter a new key or contact suppo
 msgid "Please <a href=\"%s\" target=\"_blank\">contact our support team</a> with any questions. STATUS BRAH."
 msgstr "Please <a href=\"%s\" target=\"_blank\">contact our support team</a> with any questions."
 
+msgid "cheese"
+msgstr "chedder"
+
+msgid "cheese easy"
+msgstr "bree"

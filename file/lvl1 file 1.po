@@ -22,4 +22,4 @@ msgid "cheese"
 msgstr "chedder"
 
 msgid "cheese easy"
-msgstr "bree"
+msgstr "bree wed"
